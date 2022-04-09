@@ -1,3 +1,11 @@
+УСТАНОВКА
+перейти в папку cars-ws-socket-main
+ввести в терминале "npm install"
+
+перейти в папку test-cars
+ввести в терминале "npm install"
+
+ЗАПУСК
 перейти в папку cars-ws-socket-main
 ввести в терминале "npm run server"
 
